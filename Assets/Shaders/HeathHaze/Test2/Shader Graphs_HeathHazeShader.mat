@@ -37,9 +37,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Desplazamiento: 1
-    - _NumeroDeFilas: 1
-    - _TiempoTotalDeCiclo: 5
-    m_Colors: []
+    - _Desplazamiento: 0.009
+    - _NumeroDeFilas: 5
+    - _TiempoTotalDeCiclo: 1
+    m_Colors:
+    - _Color: {r: 0.006289184, g: 0.005913415, b: 0.005913415, a: 0.50980395}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
